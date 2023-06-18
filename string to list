@@ -1,0 +1,4 @@
+a="charitha"
+print(a,type(a))
+a1=list(a)
+print(a1,type(a1))
